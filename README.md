@@ -1,7 +1,7 @@
 # Exam June 2026
-For a better readme view, check out the Github Version : https://github.com/Dexsirko/Langages-de-scripts-shell-Juin-2026/tree/main
+For a better README view, check out the GitHub version: https://github.com/Dexsirko/Langages-de-scripts-shell-Juin-2026/tree/main
 
-## Objectif
+## Objectifs
 
 ### 🐧 LINUX (UBUNTU)
 - Do a script to install automatically `microk8s`
@@ -21,11 +21,11 @@ For a better readme view, check out the Github Version : https://github.com/Dexs
 
 ### Installation on Windows
 
-1. For chocolatey, install the individual one : https://chocolatey.org/install#individual
-2. Download the scipt windows.ps1 and draf it in a folder. I recommand you to set it in a file that can't be deleted by accident. 
-3. Open the "Task Schelduler" , do rightclick on "task shelduler" and create basic task
-[![image](https://github.com/Dexsirko/Langages-de-scripts-shell-Juin-2026/blob/main/images/swappy-20260505_132034.png)
-4. A PopUp should open. Here is what you need to complete : 
+1. For Chocolatey, install the individual one: https://chocolatey.org/install#individual
+2. Download the script windows.ps1 and drag it into a folder. I recommend you set it in a file that can't be deleted by accident. 
+3. Open the "Task Schelduler" , do rightclick on "task shelduler" and create a basic task
+[!(https://github.com/Dexsirko/Langages-de-scripts-shell-Juin-2026/blob/main/images/swappy-20260505_132034.png)
+4. A pop-up should open. Here is what you need to complete : 
 ``` 
 Name : chocodows
 Description : (optionnal)
@@ -35,16 +35,16 @@ Program/Script : Chose the path of you program ex : C:/user/alois/windows.ps1
 ```
 Before finishing, check `Open the proprities dialog for this task when i click Finish`
 and the press finish
-5.In the new PopUp, you need to check `Run with Hightest Privileges
+5. In the new pop-up, you need to check `Run with Highest Privileges.
 
-The youtube version (french)
+The YouTube version (french)
 
 [![video](https://img.youtube.com/vi/sm3-mGUxdXo/0.jpg)](https://www.youtube.com/watch?v=sm3-mGUxdXo)
 
 
 ## Resources
 
-Here is a list of all websites & forum used to make the examen. 
+Here is a list of all websites & forums used to make the exam.
 
 * [Youtube - ANSIBLE - Tutos & Formation : automatiser vos configurations](https://www.youtube.com/playlist?list=PLn6POgpklwWoCpLKOSw3mXCqbRocnhrh-)
 * [Youtube - How to Install Chocolatey on Windows 10 or Windows 11 (2025)](https://www.youtube.com/watch?v=Qw6ftvXd5yo)
@@ -55,3 +55,4 @@ Here is a list of all websites & forum used to make the examen.
 * [Ubuntu Forum French](https://forum.ubuntu-fr.org/viewtopic.php?id=180730)
 * [AskUbuntu](https://askubuntu.com/questions/87415/how-can-i-find-out-if-a-specific-program-is-installed)
 * [W3Shools](https://www.w3schools.com/bash/bash_operators.php)
+* [LanguageTool](https://languagetool.org/fr) Because antidote is not working
