@@ -15,12 +15,17 @@ For a better readme view, check out the Github Version : https://github.com/Dexs
 
 ### Installation on Linux
 
+1. Copy the script linux.sh in a directory. 
+2. Open the terminal in the directory
+3. Run in your terminal `chmod +x ./linux.sh` then ` ./linux.sh`
 
 ### Installation on Windows
-1. Download the scipt windows.ps1 and draf it in a folder. I recommand you to set it in a file that can't be deleted by accident. 
-2. Open the "Task Schelduler" , do rightclick on "task shelduler" and create basic task
-(image)
-3. A PopUp should open. Here is what you need to complete : 
+
+1. For chocolatey, install the individual one : https://chocolatey.org/install#individual
+2. Download the scipt windows.ps1 and draf it in a folder. I recommand you to set it in a file that can't be deleted by accident. 
+3. Open the "Task Schelduler" , do rightclick on "task shelduler" and create basic task
+[![image](https://github.com/Dexsirko/Langages-de-scripts-shell-Juin-2026/blob/main/images/swappy-20260505_132034.png)
+4. A PopUp should open. Here is what you need to complete : 
 ``` 
 Name : chocodows
 Description : (optionnal)
@@ -30,11 +35,11 @@ Program/Script : Chose the path of you program ex : C:/user/alois/windows.ps1
 ```
 Before finishing, check `Open the proprities dialog for this task when i click Finish`
 and the press finish
-4.In the new PopUp, you need to check `Run with Hightest Privileges
+5.In the new PopUp, you need to check `Run with Hightest Privileges
 
 The youtube version (french)
 
-[![Watch the video](https://img.youtube.com/vi/sm3-mGUxdXo/0.jpg)](https://www.youtube.com/watch?v=sm3-mGUxdXo)
+[![video](https://img.youtube.com/vi/sm3-mGUxdXo/0.jpg)](https://www.youtube.com/watch?v=sm3-mGUxdXo)
 
 
 ## Resources
@@ -46,3 +51,7 @@ Here is a list of all websites & forum used to make the examen.
 * [Les Tools: No. 4: Chocolatey - Le gestionnaire de packages pour Windows! Script de Maj automatique](https://www.youtube.com/watch?v=sm3-mGUxdXo)
 * [Chocolatey Software](https://chocolatey.org/)
 * [Ansible Community | Ansible documentation](https://docs.ansible.com/)
+* [MicroK8s – Zero-ops Kubernetes for developers, edge and ...](https://canonical.com/microk8s)
+* [Ubuntu Forum French](https://forum.ubuntu-fr.org/viewtopic.php?id=180730)
+* [AskUbuntu](https://askubuntu.com/questions/87415/how-can-i-find-out-if-a-specific-program-is-installed)
+* [W3Shools](https://www.w3schools.com/bash/bash_operators.php)
