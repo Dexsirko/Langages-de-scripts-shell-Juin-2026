@@ -24,7 +24,9 @@ For a better README view, check out the GitHub version: https://github.com/Dexsi
 1. For Chocolatey, install the individual one: https://chocolatey.org/install#individual
 2. Download the script windows.ps1 and drag it into a folder. I recommend you set it in a file that can't be deleted by accident. 
 3. Open the "Task Schelduler" , do rightclick on "task shelduler" and create a basic task
-[![image](https://github.com/Dexsirko/Langages-de-scripts-shell-Juin-2026/blob/main/images/swappy-20260505_132034.png)
+![image](https://github.com/Dexsirko/Langages-de-scripts-shell-Juin-2026/blob/main/images/swappy-20260505_132034.png)
+Image taken from the video below (Les Tools: No. 4: Chocolatey)
+
 4. A pop-up should open. Here is what you need to complete : 
 ``` 
 Name : chocodows
