@@ -1,4 +1,6 @@
 # Exam June 2026
+For a better readme view, check out the Github Version : https://github.com/Dexsirko/Langages-de-scripts-shell-Juin-2026/tree/main
+
 ## Objectif
 
 ### 🐧 LINUX (UBUNTU)
@@ -10,13 +12,29 @@
    * Python 3
    * NodePad++
    * 7Zip
- 
-## Installation
 
 ### Installation on Linux
 
 
 ### Installation on Windows
+1. Download the scipt windows.ps1 and draf it in a folder. I recommand you to set it in a file that can't be deleted by accident. 
+2. Open the "Task Schelduler" , do rightclick on "task shelduler" and create basic task
+(image)
+3. A PopUp should open. Here is what you need to complete : 
+``` 
+Name : chocodows
+Description : (optionnal)
+Trigger : weekly - Monday
+Action : Start a Proggram
+Program/Script : Chose the path of you program ex : C:/user/alois/windows.ps1
+```
+Before finishing, check `Open the proprities dialog for this task when i click Finish`
+and the press finish
+4.In the new PopUp, you need to check `Run with Hightest Privileges
+
+The youtube version (french)
+
+[![Watch the video](https://img.youtube.com/vi/sm3-mGUxdXo/0.jpg)](https://www.youtube.com/watch?v=sm3-mGUxdXo)
 
 
 ## Resources
