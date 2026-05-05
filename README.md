@@ -39,7 +39,7 @@ and the press finish
 
 The YouTube version (french)
 
-[![video](https://img.youtube.com/vi/sm3-mGUxdXo/0.jpg)](https://www.youtube.com/watch?v=sm3-mGUxdXo)
+[![video](https://img.youtube.com/vi/sm3-mGUxdXo/0.jpg)]([https://www.youtube.com/watch?v=sm3-mGUxdXo](https://youtu.be/sm3-mGUxdXo?t=402))
 
 
 ## Resources
